@@ -11,3 +11,13 @@ I am also an artist, a violin player, and a big nerd.
 ## Professional Experience
 
 Around August 2022, I started a data science internship at Bank of America as a quantitative analyst intern. I was able to get experience in data/feature engineering, Python programming, data science libraries, and utilizing machine learning algorithms with data pre-processing. In January 2023, I converted from my internship to be a full-time quantitative analyst for the data science team within my department.
+
+## Education
+
+- **Harper College** (Aug 2017 - May 2021)
+  - Associate's in Science, Computer Science
+  - Associate's in Arts, Computer Science
+
+- Colorado State University Global (March 2023 - ongoing)
+  - Bachelor's in Computer Science
+    - Specialization in Artificial Intelligence and Robotics
