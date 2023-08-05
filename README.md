@@ -2,7 +2,17 @@
 
 Hi there, my name is Eliza Angela Diaz and I have a ton of hobbies.
 
-I am currently working as a Quantitative Analyst (Data Scientist) in data science and analytics at **Bank Of America**. At the same time, I am undertaking a part-time **Bachelor's in Computer Science** at Colorado State University Global and studying for various certifications along the way, such as the Google Cloud Machine Learning Engineer exam. 
+I am currently working as a Quantitative Analyst (Data Scientist) in data science and analytics at **Bank Of America**. At the same time, I am undertaking a part-time **Bachelor's in Computer Science** at Colorado State University Global and studying for various certifications along the way, such as the Google Cloud Machine Learning Engineer exam.
+
+## 📖 Education
+
+- **Harper College** (Aug 2017 - May 2021)
+  - Associate's in Science, Computer Science
+  - Associate's in Arts, Computer Science
+
+- Colorado State University Global (March 2023 - Present)
+  - Bachelor's in Computer Science
+  - Computer Programming Certificate
 
 ## 💻 Professional Experience
 
@@ -15,13 +25,3 @@ I am currently working as a Quantitative Analyst (Data Scientist) in data scienc
 - **Quantitative Services Analyst** (Jan 2023 - Present)
   - Worked in Model Development for analyzing and monitoring Machine Learning Model production dates and deadlines
   - Applied statistical and quantitative methods using Python for exploratory data analysis
-
-## 📖 Education
-
-- **Harper College** (Aug 2017 - May 2021)
-  - Associate's in Science, Computer Science
-  - Associate's in Arts, Computer Science
-
-- Colorado State University Global (March 2023 - ongoing)
-  - Bachelor's in Computer Science
-  - Computer Programming Certificate
