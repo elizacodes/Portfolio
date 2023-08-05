@@ -10,9 +10,12 @@ I am currently working as a Quantitative Analyst (Data Scientist) in data scienc
   - Associate's in Science, Computer Science
   - Associate's in Arts, Computer Science
 
-- Colorado State University Global (March 2023 - Present)
+- **Colorado State University Global** (March 2023 - Present)
   - Bachelor's in Computer Science
   - Computer Programming Certificate
+ 
+- **Certifications**
+  - Microsoft MTA: Introduction To Programming Using Python - Certified June 2022
 
 ## 💻 Professional Experience
 
