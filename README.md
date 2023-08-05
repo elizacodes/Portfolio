@@ -20,4 +20,4 @@ Around August 2022, I started a data science internship at Bank of America as a 
 
 - Colorado State University Global (March 2023 - ongoing)
   - Bachelor's in Computer Science
-    - Specialization in Artificial Intelligence and Robotics
+  - Computer Programming Certificate
