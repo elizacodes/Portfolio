@@ -12,6 +12,7 @@ I am currently working as a Quantitative Analyst (Data Scientist) in data scienc
 
 - **Colorado State University Global** (March 2023 - Present)
   - Bachelor's in Computer Science
+    - Specialization in Artificial Intelligence & Robotics
   - Computer Programming Certificate
  
 - **Certifications**
