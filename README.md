@@ -2,17 +2,21 @@
 
 Hi there, my name is Eliza Angela Diaz and I have a ton of hobbies.
 
-At 12, I started coding with my first-hand experience in web development. As years passed, I gradually focused more on enhancing my programming knowledge with Python and C++ in college while studying computer science. Throughout my life, I’ve always wanted to continue strengthening my patience, gain a better logical problem-solving mindset, and find ways to open the doors to creativity for me. I began to find a stronger interest in machine learning throughout my coding journey. It became more diverse—a challenge, as I continued to pursue further into the field of data science, and it has created an open path for me to push myself further.
+I am currently working as a Quantitative Analyst (Data Scientist) in data science and analytics at **Bank Of America**. At the same time, I am undertaking a part-time **Bachelor's in Computer Science** at Colorado State University Global and studying for various certifications along the way, such as the Google Cloud Machine Learning Engineer exam. 
 
-My goal is to continue nurturing my emotional intelligence by persisting and overcoming challenges, which strengthens my adaptability, leadership, and communication. With this stability, I’d like to express my passion for coding more through artificial intelligence and machine learning. I also have an interest in web and video game development, so being able to factor all of my interests together, I believe there will be something more significant that I will achieve.
+## 💻 Professional Experience
 
-I am also an artist, a violin player, and a big nerd.
+- **Quantitative Data Science Internship** (Aug 2022 - Jan 2023)
+    - Developed Python notebooks to conduct data and feature engineering tasks and exploratory data analysis as part of the Machine Learning Model Development Life Cycle
+    - Applied quantitative methods to Python and Jupyter Lab to administer mathematical and statistical modeling to automate data analysis
+    - Worked with AI and Machine Learning to develop models of classification, regression, and tree-based algorithms to analyze data and create predictions
+    - Engineered data that tracks global currency transactions between US Dollars and foreign countries using Python programming as part of data engineering and analysis
 
-## Professional Experience
+- **Quantitative Services Analyst** (Jan 2023 - Present)
+  - Worked in Model Development for analyzing and monitoring Machine Learning Model production dates and deadlines
+  - Applied statistical and quantitative methods using Python for exploratory data analysis
 
-Around August 2022, I started a data science internship at Bank of America as a quantitative analyst intern. I received experience in data/feature engineering, Python programming, data science libraries, and utilizing machine learning algorithms with data pre-processing. In January 2023, I converted from my internship to a full-time quantitative analyst for the data science team within my department. Around April 2023, I moved teams to switch over to model governance and data analysis for AI/ML model development. I maintained governance for these models in-house prior to my team, cleaned and processed data for exploratory data analysis, and I am currently in the process of developing SQL queries for all 24 in-house models.
-
-## Education
+## 📖 Education
 
 - **Harper College** (Aug 2017 - May 2021)
   - Associate's in Science, Computer Science
