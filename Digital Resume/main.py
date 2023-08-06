@@ -3,6 +3,11 @@ from pathlib import Path
 import streamlit as st
 from PIL import Image
 
+# Look into adding other CSS features to change up the resume
+# such as changing the color of the text. Possible drop-down
+# menu for project showcase and creating another area
+# to showcase my art (possibly?)
+
 # --- PATH ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
