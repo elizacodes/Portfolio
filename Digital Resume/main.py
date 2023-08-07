@@ -8,6 +8,8 @@ from PIL import Image
 # menu for project showcase and creating another area
 # to showcase my art (possibly?)
 
+# Editing on main2.py file with added custom functions
+
 # --- PATH ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
@@ -46,3 +48,18 @@ with col2:
     st.title(name)
     st.write(description)
     st.write(":email:", email)
+
+# --- SOCIAL ---
+st.write("#")
+cols = st.columns(len(social_media))
+for index, (platform, link) in enumerate(social_media.items()):
+    cols[index].write(f"{platform} {link}")
+    
+# --- EDUCATION --- 
+st.write("#")
+st.markdown("## Education")
+st.write("**Harper College**")
+st.markdown("""
+         - Associate's in Science, Computer Science
+         - Associate's in Arts, Computer Science
+         """)
