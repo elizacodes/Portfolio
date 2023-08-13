@@ -1,4 +1,4 @@
-# Portfolio
+# About Me
 
 Hi there, my name is Eliza Angela Diaz and I have a ton of hobbies.
 
